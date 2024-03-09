@@ -27,4 +27,7 @@
 <a href="mailto:analeticia.araujo05@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
 <a href='https://www.codewars.com/users/leticiaraujo1'><img src='https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white'></a>
 
+<h2>stats</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaraujo1&layout=compact&theme=tokyonight&show_icons=true)
 
