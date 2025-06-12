@@ -2,7 +2,7 @@
 
 - 👩🏻‍💻 software engineer student
 - 🎮 working on game development, python projects and websites
-- 🧠 currently learning database, ux/ui and bootstrap
+- 🧠 currently learning cybersecurity, ux/ui and react
 - 🚀 looking forward to learn more
 
 <h2>skills</h2>
